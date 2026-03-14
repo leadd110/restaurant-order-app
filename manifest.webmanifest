@@ -1,0 +1,1 @@
+{"name":"Restaurant Bestellung","short_name":"Bestell","description":"Restaurant Bestellsystem für Tablet","start_url":"/restaurant-order-app/","display":"standalone","background_color":"#1d232a","theme_color":"#570DF8","lang":"en","scope":"/restaurant-order-app/","orientation":"landscape","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
