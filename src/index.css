@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Print-Bereich: im normalen View versteckt */
+#print-area {
+  display: none;
+}
+
+@media print {
+  body {
+    visibility: hidden;
+  }
+  #print-area {
+    display: block !important;
+    visibility: visible;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 24px;
+    background: white;
+    color: black;
+    font-family: system-ui, sans-serif;
+  }
+  #print-area * {
+    visibility: visible;
+  }
+}

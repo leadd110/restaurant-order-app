@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Salate",
+    "icon": "🥗",
+    "products": [
+      {
+        "name": "Bohnensalat",
+        "price": 5.00,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      },
+      { "name": "Krautsalat", "price": 5.00, "extras": [] },
+      {
+        "name": "Tomaten-Gurkensalat",
+        "price": 5.50,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      },
+      { "name": "Gurkensalat", "price": 5.00, "extras": [] },
+      { "name": "Krautsalat in Sahnesauce", "price": 5.50, "extras": [] },
+      { "name": "Bohnensalat in Sahnesauce", "price": 5.50, "extras": [] },
+      { "name": "Gurkensalat in Sahnesauce", "price": 5.50, "extras": [] },
+      { "name": "Nudelsalat", "price": 5.50, "extras": [] },
+      { "name": "Portion Tzatziki", "price": 3.50, "extras": [] },
+      {
+        "name": "Griechischer Bauernsalat",
+        "price": 8.50,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Extra Oliven", "price": 0.50 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gyros",
+    "icon": "🥙",
+    "products": [
+      {
+        "name": "Gyros mit Pommes",
+        "price": 10.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Extra Sauce", "price": 0.50 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 },
+          { "name": "Extra Scharf", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Gyros mit Reis",
+        "price": 10.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Gyros Teller",
+        "price": 12.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 },
+          { "name": "Extra Scharf", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Gyros im Fladenbrot",
+        "price": 8.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 },
+          { "name": "Extra Scharf", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Gyros Pfanne",
+        "price": 13.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Extra Scharf", "price": 0.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Souvlaki",
+    "icon": "🍢",
+    "products": [
+      {
+        "name": "Souvlaki Spieß",
+        "price": 3.50,
+        "extras": [
+          { "name": "Extra Sauce", "price": 0.50 }
+        ]
+      },
+      {
+        "name": "Souvlaki mit Pommes",
+        "price": 10.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Souvlaki Teller",
+        "price": 12.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Souvlaki im Fladenbrot",
+        "price": 8.50,
+        "extras": [
+          { "name": "Extra Fleisch", "price": 2.00 },
+          { "name": "Extra Tzatziki", "price": 1.00 },
+          { "name": "Ohne Zwiebeln", "price": 0.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Schnitzel",
+    "icon": "🥩",
+    "products": [
+      {
+        "name": "Schnitzel mit Pommes",
+        "price": 11.50,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Extra Sauce", "price": 0.50 },
+          { "name": "Ohne Sauce", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Schnitzel mit Reis",
+        "price": 11.50,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Ohne Sauce", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Schnitzel Wiener Art",
+        "price": 12.50,
+        "extras": [
+          { "name": "Extra Zitrone", "price": 0.00 },
+          { "name": "Ohne Sauce", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Schnitzel Hawaii",
+        "price": 12.50,
+        "extras": [
+          { "name": "Extra Käse", "price": 1.00 },
+          { "name": "Extra Ananas", "price": 0.50 }
+        ]
+      },
+      {
+        "name": "Jagdschnitzel",
+        "price": 13.00,
+        "extras": [
+          { "name": "Extra Sauce", "price": 0.50 },
+          { "name": "Ohne Pilze", "price": 0.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Snacks",
+    "icon": "🍟",
+    "products": [
+      {
+        "name": "Pommes Frites",
+        "price": 4.50,
+        "extras": [
+          { "name": "Extra Ketchup", "price": 0.00 },
+          { "name": "Extra Mayo", "price": 0.00 },
+          { "name": "Extra Käse", "price": 1.00 }
+        ]
+      },
+      {
+        "name": "Pommes mit Käse",
+        "price": 5.50,
+        "extras": [
+          { "name": "Extra Ketchup", "price": 0.00 },
+          { "name": "Extra Mayo", "price": 0.00 }
+        ]
+      },
+      {
+        "name": "Chicken Nuggets",
+        "price": 6.50,
+        "extras": [
+          { "name": "Extra Sauce", "price": 0.50 }
+        ]
+      },
+      {
+        "name": "Mozzarella Sticks",
+        "price": 6.50,
+        "extras": [
+          { "name": "Extra Sauce", "price": 0.50 }
+        ]
+      },
+      {
+        "name": "Onion Rings",
+        "price": 5.00,
+        "extras": [
+          { "name": "Extra Sauce", "price": 0.50 }
+        ]
+      },
+      { "name": "Pita Brot", "price": 2.00, "extras": [] }
+    ]
+  },
+  {
+    "name": "Getränke",
+    "icon": "🥤",
+    "products": [
+      { "name": "Cola 0,33l", "price": 2.50, "extras": [] },
+      { "name": "Cola 0,5l", "price": 3.00, "extras": [] },
+      { "name": "Fanta 0,33l", "price": 2.50, "extras": [] },
+      { "name": "Sprite 0,33l", "price": 2.50, "extras": [] },
+      { "name": "Wasser 0,5l", "price": 2.00, "extras": [] },
+      { "name": "Wasser 1,0l", "price": 3.00, "extras": [] },
+      { "name": "Bier 0,5l", "price": 3.50, "extras": [] },
+      { "name": "Wein 0,2l", "price": 4.50, "extras": [] },
+      {
+        "name": "Kaffee",
+        "price": 2.50,
+        "extras": [
+          { "name": "Extra Zucker", "price": 0.00 },
+          { "name": "Extra Milch", "price": 0.00 }
+        ]
+      }
+    ]
+  }
+]
